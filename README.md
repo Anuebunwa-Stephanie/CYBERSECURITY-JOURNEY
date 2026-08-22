@@ -21,7 +21,8 @@ This repository is where I document the things I'm learning, the practical labs 
 
 🧪 Hands-On Practice
 
-I'm currently using TryHackMe to strengthen my practical cybersecurity skills and get more comfortable working through real-world security concepts and challenges,and I'm perfecting my skills in Wireshark,Nmap
+I'm currently using TryHackMe to strengthen my practical cybersecurity skills and get more comfortable working through real-world security concepts and challenges.
+ I'm also working on improving my skills in Wireshark,Nmap Cisco Packet Tracer, and other tools.
 
 I'll be documenting my progress here; including what I learned, what I practiced, and some of the lessons that made me stop and think twice. 😅
 
